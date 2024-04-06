@@ -16,3 +16,6 @@
 15. git status
 16. git add nama-file
 17. git commit -m "adding new file (commit message)"
+
+![alt text](image.png)
+![alt text](image-1.png)
